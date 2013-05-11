@@ -1,0 +1,4 @@
+schematics solar7Wreg.sch 
+output-name board
+elements-dir ~/gaf/pcb-elements
+
